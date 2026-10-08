@@ -30,6 +30,6 @@ RAG, agentic workflows, MCP and embedded/IoT technologies.
 ## 📫 Contact
 
 - GitHub: [@vampiresati](https://github.com/vampiresati)
-- LinkedIn: Add your LinkedIn profile
-- Email: Add your email address
+- LinkedIn: [@satvir-singh-95101222a](https://www.linkedin.com/in/satvir-singh-95101222a)
+- Email: sssatvir12@gmail.com
 
