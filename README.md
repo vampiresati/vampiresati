@@ -124,6 +124,10 @@ GadgetBytes.in | May 2012 - May 2016
 
 ## 🏅 Certifications
 
+### Quickstart: LangChain Essentials - Python
+
+[![Quickstart LangChain Essentials Python certificate](mycertificates/satvirsingh-2026-07-22.jpg)](mycertificates/satvirsingh-2026-07-22.pdf)
+
 ### GenAI Engineer Bootcamp: Build AI Apps & Agents in Python
 
 [![GenAI Engineer Bootcamp certificate](mycertificates/UC-775db3ef-1265-4d4e-9511-1f7c4be6fb73.jpg)](mycertificates/UC-775db3ef-1265-4d4e-9511-1f7c4be6fb73.pdf)
