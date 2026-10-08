@@ -28,6 +28,22 @@ Based in Sirhind Mandi, Fatehgarh Sahib, Punjab, India.
 - Connected tank inventory, delivery readings and sensor data to a web application.
 - Generated reports for operational monitoring and industrial IoT workflows.
 
+### PortHub Yard Dashboard
+
+![Terminal API integration dashboard](yardimplementation.png)
+
+- Integrated APIs from APM Terminals, PNCT and Maher Terminals into PortHub.
+- Consolidated terminal status, yard utilization and operational data in a single web interface.
+- Supported cleaner visibility for terminal, container and yard workflows.
+
+### Load and Driver GPS Tracking
+
+![Load and driver GPS geofence tracking dashboard](GPS%20and%20geofence%20tracking.png)
+
+- Built GPS tracking workflows that collected sensor data and transmitted it through cURL requests.
+- Used MapKit JS to display driver locations and route/geofence context.
+- Calculated working and rest hours inside designated geofenced areas.
+
 ### AI Ticket Merge & Test Workflow
 
 **Python, LangGraph, Git, local LLMs, Playwright**
