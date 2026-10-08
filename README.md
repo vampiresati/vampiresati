@@ -151,4 +151,3 @@ GadgetBytes.in | May 2012 - May 2016
 - GitHub: [@vampiresati](https://github.com/vampiresati)
 - LinkedIn: [@satvir-singh-95101222a](https://www.linkedin.com/in/satvir-singh-95101222a)
 - Email: [sssatvir12@gmail.com](mailto:sssatvir12@gmail.com)
-- Phone: +91 98884 85649
