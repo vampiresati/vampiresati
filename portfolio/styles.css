@@ -235,7 +235,9 @@ img {
 .project-card,
 .skill-group,
 .education-grid article,
-.certificate-card {
+.certificate-card,
+.blog-card,
+.video-card {
   border: 1px solid var(--line);
   border-radius: 8px;
   background: var(--white);
@@ -282,7 +284,9 @@ img {
 .project-grid,
 .skills-grid,
 .education-grid,
-.certificate-grid {
+.certificate-grid,
+.blog-grid,
+.video-grid {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 18px;
@@ -377,6 +381,117 @@ img {
   color: var(--muted);
 }
 
+.blog-section {
+  background: #eef5f5;
+}
+
+.blog-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.blog-card {
+  display: flex;
+  min-height: 280px;
+  flex-direction: column;
+  padding: 24px;
+}
+
+.blog-card h3,
+.video-card h3,
+.article-body h1,
+.article-body h2 {
+  margin: 0 0 12px;
+  line-height: 1.2;
+}
+
+.blog-card p,
+.video-card p,
+.article-body p,
+.article-body li {
+  color: var(--muted);
+}
+
+.blog-card a,
+.video-card a,
+.text-link {
+  margin-top: auto;
+  color: var(--teal-dark);
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.text-link {
+  display: inline-flex;
+  margin-top: 24px;
+}
+
+.youtube-section {
+  background: var(--white);
+}
+
+.video-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.video-card {
+  display: grid;
+  grid-template-columns: 160px minmax(0, 1fr);
+  gap: 18px;
+  padding: 18px;
+}
+
+.video-thumb {
+  display: grid;
+  min-height: 118px;
+  place-items: center;
+  border-radius: 8px;
+  background:
+    linear-gradient(135deg, rgba(9, 104, 103, 0.84), rgba(30, 79, 138, 0.82)),
+    url("../hero-fuel-ai.png") center / cover;
+  color: var(--white);
+  font-size: 2rem;
+  font-weight: 800;
+}
+
+.channel-button {
+  margin-top: 24px;
+}
+
+.article-page {
+  background: var(--white);
+}
+
+.article-header {
+  padding: 42px clamp(20px, 5vw, 72px);
+  border-bottom: 1px solid var(--line);
+  background: var(--paper);
+}
+
+.article-header a {
+  color: var(--teal-dark);
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.article-body {
+  max-width: 880px;
+  padding: clamp(42px, 6vw, 76px) clamp(20px, 5vw, 72px);
+}
+
+.article-body h1 {
+  color: var(--ink);
+  font-size: clamp(2rem, 4vw, 3.4rem);
+}
+
+.article-body h2 {
+  margin-top: 34px;
+  color: var(--ink);
+}
+
+.article-body ul {
+  padding-left: 20px;
+}
+
 .contact-section {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(280px, 0.7fr);
@@ -440,6 +555,11 @@ img {
   .project-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
+
+  .blog-grid,
+  .video-grid {
+    grid-template-columns: 1fr;
+  }
 }
 
 @media (max-width: 720px) {
@@ -486,7 +606,13 @@ img {
   .project-grid,
   .skills-grid,
   .education-grid,
-  .certificate-grid {
+  .certificate-grid,
+  .blog-grid,
+  .video-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .video-card {
     grid-template-columns: 1fr;
   }
 

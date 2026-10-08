@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Human-in-the-loop Git merge workflow | Satvir Singh</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../../styles.css">
+  </head>
+  <body class="article-page">
+    <header class="article-header">
+      <a href="../index.html">Back to blog</a>
+    </header>
+    <main class="article-body">
+      <p class="eyebrow">AI Workflow</p>
+      <h1>Building a human-in-the-loop Git merge workflow with local LLMs</h1>
+      <p>
+        One useful AI automation pattern is to keep the model close to the code, but keep the final
+        decision with a human. For ticket-based development, that means an agent can inspect branches,
+        summarize diffs and prepare tests while a developer or project lead approves the merge.
+      </p>
+      <h2>Workflow</h2>
+      <ul>
+        <li>Merge PHP and frontend ticket branches locally.</li>
+        <li>Analyze Git diffs and identify affected files, screens and workflows.</li>
+        <li>Generate an impact report for review.</li>
+        <li>Ask for human confirmation before continuing.</li>
+        <li>Create a test plan and optionally run browser checks with Playwright.</li>
+      </ul>
+      <h2>Why local LLMs help</h2>
+      <p>
+        Local models are useful for private review workflows because the project context can remain on
+        the machine. The model does not need to be perfect; it needs to prepare a useful first pass that
+        makes human review faster and more consistent.
+      </p>
+    </main>
+  </body>
+</html>
