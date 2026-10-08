@@ -121,7 +121,7 @@ img {
   padding: clamp(44px, 8vw, 92px) clamp(20px, 5vw, 72px);
   background:
     linear-gradient(120deg, rgba(255, 255, 255, 0.86), rgba(255, 255, 255, 0.42)),
-    url("../2118e1c7-e6ed-42b6-a9b7-cc263b6e3d0d.png") center / cover;
+    url("../hero-fuel-ai.png") center / cover;
 }
 
 .hero-content {
