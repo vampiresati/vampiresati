@@ -122,6 +122,20 @@ GadgetBytes.in | May 2012 - May 2016
 - Production-ready RAG evaluation and monitoring
 - Edge AI for embedded and IoT devices
 
+## 🏅 Certifications
+
+### GenAI Engineer Bootcamp: Build AI Apps & Agents in Python
+
+[![GenAI Engineer Bootcamp certificate](mycertificates/UC-775db3ef-1265-4d4e-9511-1f7c4be6fb73.jpg)](mycertificates/UC-775db3ef-1265-4d4e-9511-1f7c4be6fb73.pdf)
+
+### Complete MCP Developer Guide: Agents, Servers & Tools
+
+[![Complete MCP Developer Guide certificate](mycertificates/UC-620281c0-4e78-4327-ab48-0af65a1cc165.jpg)](mycertificates/UC-620281c0-4e78-4327-ab48-0af65a1cc165.pdf)
+
+### LangGraph for beginners: Agentic Workflows in simple steps
+
+[![LangGraph for beginners certificate](mycertificates/UC-2bd4fd24-b5f6-4331-87ae-c8411ba2c19f.jpg)](mycertificates/UC-2bd4fd24-b5f6-4331-87ae-c8411ba2c19f.pdf)
+
 ## 🎓 Education
 
 - **B.Tech in Electronics Engineering**, B.C.E.T. College, Bhutta | 2008 - 2012

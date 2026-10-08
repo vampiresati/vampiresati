@@ -234,7 +234,8 @@ img {
 .project-feature,
 .project-card,
 .skill-group,
-.education-grid article {
+.education-grid article,
+.certificate-card {
   border: 1px solid var(--line);
   border-radius: 8px;
   background: var(--white);
@@ -280,7 +281,8 @@ img {
 
 .project-grid,
 .skills-grid,
-.education-grid {
+.education-grid,
+.certificate-grid {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 18px;
@@ -334,6 +336,45 @@ img {
 
 .education-grid {
   grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.certificates-section {
+  background: var(--white);
+}
+
+.certificate-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.certificate-card {
+  overflow: hidden;
+}
+
+.certificate-card a {
+  display: block;
+  background: #f0f2f5;
+}
+
+.certificate-card img {
+  width: 100%;
+  aspect-ratio: 16 / 11;
+  object-fit: cover;
+  object-position: left center;
+}
+
+.certificate-card div {
+  padding: 18px;
+}
+
+.certificate-card h3 {
+  margin: 0 0 8px;
+  font-size: 1.05rem;
+  line-height: 1.25;
+}
+
+.certificate-card p {
+  margin: 0;
+  color: var(--muted);
 }
 
 .contact-section {
@@ -444,7 +485,8 @@ img {
 
   .project-grid,
   .skills-grid,
-  .education-grid {
+  .education-grid,
+  .certificate-grid {
     grid-template-columns: 1fr;
   }
 
