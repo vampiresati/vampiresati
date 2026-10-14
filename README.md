@@ -124,6 +124,10 @@ GadgetBytes.in | May 2012 - May 2016
 
 ## 🏅 Certifications
 
+### AI Upskilling Certificate: Hands-On Development from Model to App
+
+[![AI Upskilling Certificate Hands-On Development certificate](mycertificates/AI-Upskilling-certificate-Hands-On-Development.jpg)](mycertificates/AI-Upskilling-certificate-Hands-On-Development.pdf)
+
 ### Quickstart: LangChain Essentials - Python
 
 [![Quickstart LangChain Essentials Python certificate](mycertificates/satvirsingh-2026-07-22.jpg)](mycertificates/satvirsingh-2026-07-22.pdf)
