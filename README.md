@@ -124,6 +124,14 @@ GadgetBytes.in | May 2012 - May 2016
 
 ## 🏅 Certifications
 
+### Hugging Face Agents Course
+
+![Hugging Face Agents Course certificate](mycertificates/final_huggingfaceagent.webp)
+
+### Fundamentals of Agents
+
+![Hugging Face Fundamentals of Agents certificate](mycertificates/fundamentalshuggingface.webp)
+
 ### AI Upskilling Certificate: Hands-On Development from Model to App
 
 [![AI Upskilling Certificate Hands-On Development certificate](mycertificates/AI-Upskilling-certificate-Hands-On-Development.jpg)](mycertificates/AI-Upskilling-certificate-Hands-On-Development.pdf)
