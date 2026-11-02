@@ -124,6 +124,10 @@ GadgetBytes.in | May 2012 - May 2016
 
 ## 🏅 Certifications
 
+### Cypher Fundamentals
+
+[![Neo4j GraphAcademy certificate for Cypher Fundamentals](mycertificates/cypher-fundamentals-graphacademy.jpg)](mycertificates/Cypher%20Fundamentals%20Certificate%20_%20GraphAcademy.pdf)
+
 ### Hugging Face Agents Course
 
 ![Hugging Face Agents Course certificate](mycertificates/final_huggingfaceagent.webp)
