@@ -156,6 +156,10 @@ GadgetBytes.in | May 2012 - May 2016
 
 [![LangGraph for beginners certificate](mycertificates/UC-2bd4fd24-b5f6-4331-87ae-c8411ba2c19f.jpg)](mycertificates/UC-2bd4fd24-b5f6-4331-87ae-c8411ba2c19f.pdf)
 
+### Qdrant Beginner Certification
+
+[![Qdrant Beginner certificate](mycertificates/qdrant-beginner-certificate-satvir-singh.jpg)](mycertificates/qdrant-beginner-certificate-satvir-singh.pdf)
+
 ## 🎓 Education
 
 - **B.Tech in Electronics Engineering**, B.C.E.T. College, Bhutta | 2008 - 2012
